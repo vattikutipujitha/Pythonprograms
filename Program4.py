@@ -1,0 +1,17 @@
+name='covid19\
+pandemic'
+print(name)
+name="""covid19
+pandemic
+WHO
+Health
+Organization"""
+print(name)
+name='''covid19
+pandemic
+WHO
+Health
+Organization'''
+print(name)
+val=None
+print(type(val))
